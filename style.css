@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(39, 50, 56);
+}
+h1{
+  font-size: 50px; 
+  font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    background-color:white; 
+    color: rgb(105, 133, 147);
+}
+.subt-aspiradoras{
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(230, 203, 191);
+}
+.img-aspiradora{
+    margin-left: 45px;
+    border: 7px solid rgb(230, 203, 191);
+}
+.subt-celulares{
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(161, 193, 203);
+}
+.img-celulares{
+    margin-left: 45px;
+    border: 7px solid rgb(161, 193, 203);
+}
+.subt-consolas{
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(191, 191, 191);
+}
+.img-consola{
+    margin-left: 45px;
+    border: 7px solid rgb(191, 191, 191);
+}
+.subt-consolas{
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(191, 191, 191);
+}
+.img-consola{
+    margin-left: 45px;
+    border: 7px solid rgb(191, 191, 191);
+}
+.subt-theaters{
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(141, 148, 161);
+}
+.img-theater{
+    margin-left: 45px;
+    border: 7px solid rgb(141, 148, 161);
+}
+.subt-televisores{
+    font-family: Arial, Gadget, sans-serif;
+    font-size: 35px;
+    font-style: oblique;
+    font-variant: small-caps;
+    color: rgb(178, 178, 170);
+}
+.img-tv{
+    margin-left: 45px;
+    border: 7px solid rgb(178, 178, 170);
+}
+
+p {
+    color: rgb(217, 221, 195);
+}
